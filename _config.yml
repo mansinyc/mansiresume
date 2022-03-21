@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mansi Nirantar"
-resume_title:                   "How can I help ?"
+resume_title:                   "What next.What more. What else ?"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "hello@mansinirantar.com"
